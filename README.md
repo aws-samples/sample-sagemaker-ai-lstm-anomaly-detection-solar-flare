@@ -31,7 +31,6 @@ The code analyzes multi-channel X-ray data to detect anomalies across different 
 git clone https://github.com/aws-samples/sample-sagemaker-ai-lstm-anomaly-detection-solar-flare.git
 
 cd sample-sagemaker-ai-rcf-anomaly-detection-lunar-spacecraft
-
 ```
 
 ## Usage
@@ -49,4 +48,5 @@ cd sample-sagemaker-ai-rcf-anomaly-detection-lunar-spacecraft
 - Generates comprehensive analysis of detection results
 
 ## License
+
 This project is licensed under the MIT-0 License - see LICENSE.txt for details.
